@@ -1,0 +1,1678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-25">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="channel" title="channel" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="2" label="Abby">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6607142857142857"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7432432432432432"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.2251500628218387"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="123.40613" y="109.24573"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="3" label="Agnes">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.578125"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6441441441441441"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.058039169838852704"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="34.0"></viz:size>
+        <viz:position x="-258.64124" y="192.2743"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="4" label="Alfredia">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3854166666666667"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4144144144144145"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="11.0"></viz:size>
+        <viz:position x="-258.35205" y="-657.7546"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="5" label="Alma.pol">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.43529411764705883"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.47747747747747743"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="14.0"></viz:size>
+        <viz:position x="-546.1257" y="461.2014"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="6" label="Annie">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.46835443037974683"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5405405405405406"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.01258702831112979"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="24.0"></viz:size>
+        <viz:position x="-161.15938" y="474.3136"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="7" label="Ashley">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.40425531914893614"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.42982456140350883"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="512.1002" y="522.73236"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="9" label="Bruce">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5180180180180178"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.005718312695056881"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="379.23126" y="218.30568"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="12" label="Cherly">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.42045454545454547"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4549549549549549"></attvalue>
+          <attvalue for="betweenesscentrality" value="7.04721634954193E-4"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="14.0"></viz:size>
+        <viz:position x="-528.88293" y="-68.26862"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="13" label="Cheryll">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5138888888888888"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5630630630630631"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.004763268062686667"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="447.7522" y="-180.8876"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="14" label="Chester">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.35514018691588783"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3815789473684212"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-364.20853" y="618.0494"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="16" label="Daisy">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4157303370786517"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4414414414414415"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="11.0"></viz:size>
+        <viz:position x="-42.152485" y="-717.8955"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="20" label="Dedra">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.46835443037974683"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5045045045045045"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="13.0"></viz:size>
+        <viz:position x="172.01993" y="313.25735"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="25" label="Evelynn">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4805194805194805"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5405405405405405"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0039036544850498344"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="144.62845" y="-459.9492"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="26" label="Gema">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6166666666666667"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7072072072072072"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.17120779737058806"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="43.0"></viz:size>
+        <viz:position x="41.89684" y="-83.09439"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="85" label="gracewoolford">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4157303370786517"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4414414414414415"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="66.45374" y="499.23877"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="28" label="Ida">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3854166666666667"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4144144144144145"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="13.0"></viz:size>
+        <viz:position x="647.1648" y="-262.72443"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="29" label="Jae">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5540540540540541"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0066260803443678705"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-404.9929" y="-264.8746"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="31" label="Jonell">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0022425249169435216"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="14.0"></viz:size>
+        <viz:position x="-709.8275" y="41.14584"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="32" label="Josette">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5441176470588235"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5990990990990991"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.007476263752690814"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="25.0"></viz:size>
+        <viz:position x="293.11987" y="-9.553393"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="35" label="Kala">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.42528735632183906"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4594594594594595"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="13.0"></viz:size>
+        <viz:position x="585.4684" y="327.74997"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="36" label="Kandis">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6981132075471698"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7837837837837838"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.20185747201471302"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-15.106781" y="-281.738"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="40" label="Kattie">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3394495412844037"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3603603603603604"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="11.0"></viz:size>
+        <viz:position x="-438.59378" y="-550.9634"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="43" label="Kylie">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.44047619047619047"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.490990990990991"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.523608174770965E-4"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.0"></viz:size>
+        <viz:position x="211.11893" y="-223.84927"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="44" label="Lea">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3894736842105263"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.418918918918919"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="11.0"></viz:size>
+        <viz:position x="705.3632" y="-61.262154"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="47" label="Loise">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4805194805194805"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5135135135135135"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.30338266384778E-4"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="507.13797" y="42.60319"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="48" label="Loreta">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4175824175824176"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4429824561403509"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="327.17392" y="450.71442"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="49" label="Lucio">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5068493150684932"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5765765765765766"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0511719333931279"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="25.0"></viz:size>
+        <viz:position x="-248.59074" y="-407.379"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="50" label="Maaz">
+        <attvalues>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6981132075471698"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7837837837837838"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.17690010248149785"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-106.52126" y="53.69331"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="53" label="Marcie">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3894736842105263"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.418918918918919"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-685.4254" y="-204.64192"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="55" label="Maribel">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5362318840579711"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6036036036036035"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.04990121312795731"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="25.0"></viz:size>
+        <viz:position x="-56.395702" y="281.82422"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="56" label="Marx">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3557692307692308"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.382882882882883"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.778750964797476E-4"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="11.0"></viz:size>
+        <viz:position x="283.0233" y="658.155"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="57" label="Mathew">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3877551020408163"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4166666666666668"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-669.0134" y="267.5903"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="58" label="Matilda">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5362318840579711"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6036036036036035"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.011786267672895579"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="28.0"></viz:size>
+        <viz:position x="-199.06827" y="-179.76183"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="84" label="maxi">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5138888888888888"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.554054054054054"></attvalue>
+          <attvalue for="betweenesscentrality" value="8.282767267968114E-4"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-64.15965" y="-504.3646"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="60" label="Merideth">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5441176470588235"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5990990990990991"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.034952743990798965"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.0"></viz:size>
+        <viz:position x="-330.03677" y="-8.47146"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="63" label="Natalie">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.43023255813953487"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4639639639639641"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="14.0"></viz:size>
+        <viz:position x="-578.8718" y="-393.67578"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="66" label="Rosalba">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4805194805194805"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5315315315315314"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0017320402759091978"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="-356.92145" y="383.13922"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="69" label="Somer">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4065934065934066"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4324324324324325"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="11.0"></viz:size>
+        <viz:position x="-150.60448" y="693.70825"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="73" label="Tresa">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5068493150684932"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5495495495495494"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.04283449109030505"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="344.2466" y="-384.18344"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="83" label="Trilla_Ruben">
+        <attvalues>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3394495412844037"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3671171171171172"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="11.0"></viz:size>
+        <viz:position x="173.06857" y="-685.3987"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="87" label="Weyinmi">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4175824175824176"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4429824561403509"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="554.3445" y="-454.66626"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="77" label="Yen">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.47435897435897434"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.518018018018018"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.765904285988853E-4"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="14.0"></viz:size>
+        <viz:position x="65.63883" y="702.06396"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="78" label="Yung">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4567901234567901"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5045045045045045"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0016751820530890298"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="17.0"></viz:size>
+        <viz:position x="-487.79745" y="177.2177"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="80" label="Zenobia">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.40425531914893614"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.42982456140350883"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="699.69214" y="163.01985"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="81" label="Zola">
+        <attvalues>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.40425531914893614"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.42982456140350883"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="377.4002" y="-605.8855"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="12" target="2">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="12" target="55" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="13" target="2">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="13" target="26">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="13" target="3" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="13" target="32">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="13" target="36" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="13" target="73" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="14" target="55">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="16" target="36" weight="16.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="2" target="25" weight="5.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="2" target="26" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="2" target="28">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="2" target="3" weight="13.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="2" target="32">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="2" target="35">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="2" target="36" weight="8.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="2" target="44" weight="5.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="2" target="47">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="2" target="49">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="2" target="50" weight="11.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="21" source="2" target="53">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="2" target="56">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="23" source="2" target="58" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="24" source="2" target="60" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="25" source="2" target="73" weight="9.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="26" source="2" target="84" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="27" source="2" target="9" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="28" source="20" target="36">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="29" source="20" target="50" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="30" source="20" target="60" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="25" target="13">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="25" target="2" weight="7.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="33" source="25" target="29">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="34" source="25" target="49">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="25" target="50" weight="8.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="36" source="25" target="9" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="37" source="26" target="2" weight="5.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="38" source="26" target="28" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="39" source="26" target="29" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="40" source="26" target="3" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="41" source="26" target="32">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="42" source="26" target="36" weight="5.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="43" source="26" target="4" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="26" target="47">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="26" target="49">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="26" target="55">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="26" target="58" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="26" target="6">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="26" target="60">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="26" target="66">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="26" target="77" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="26" target="84" weight="4.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="28" target="26">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="29" target="25">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="29" target="26" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="29" target="32">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="29" target="36" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="58" source="29" target="47">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="59" source="29" target="50" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="60" source="3" target="2" weight="8.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="61" source="3" target="26" weight="5.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="62" source="3" target="31">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="63" source="3" target="36" weight="8.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="64" source="3" target="43">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="65" source="3" target="50" weight="17.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="66" source="3" target="58" weight="6.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="67" source="3" target="60">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="68" source="3" target="63">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="69" source="3" target="66">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="70" source="3" target="73">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="71" source="31" target="12">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="72" source="31" target="2">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="73" source="31" target="50">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="74" source="32" target="2" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="75" source="32" target="26">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="76" source="32" target="3">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="77" source="32" target="36" weight="4.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="78" source="32" target="43">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="79" source="32" target="50" weight="7.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="80" source="32" target="58">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="81" source="32" target="60">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="82" source="35" target="50">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="83" source="35" target="9">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="84" source="36" target="12" weight="9.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="85" source="36" target="13" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="86" source="36" target="16" weight="21.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="87" source="36" target="2" weight="16.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="88" source="36" target="25" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="89" source="36" target="26" weight="6.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="90" source="36" target="28">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="91" source="36" target="29" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="92" source="36" target="3" weight="16.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="93" source="36" target="32" weight="5.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="94" source="36" target="43">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="95" source="36" target="49" weight="13.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="96" source="36" target="50" weight="23.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="97" source="36" target="55" weight="15.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="98" source="36" target="58" weight="22.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="99" source="36" target="60" weight="6.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="100" source="36" target="63" weight="4.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="101" source="36" target="73" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="102" source="36" target="78">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="103" source="36" target="84" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="104" source="36" target="85" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="105" source="4" target="26">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="106" source="40" target="73">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="107" source="43" target="3">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="108" source="43" target="36" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="109" source="43" target="58">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="110" source="43" target="63">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="111" source="44" target="26">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="112" source="47" target="2">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="113" source="47" target="26">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="114" source="47" target="36">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="115" source="48" target="50">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="116" source="49" target="13">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="117" source="49" target="29">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="118" source="49" target="3">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="119" source="49" target="36" weight="8.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="120" source="49" target="50">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="121" source="49" target="55" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="122" source="49" target="58" weight="5.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="123" source="49" target="83">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="124" source="5" target="3">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="125" source="5" target="50" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="126" source="5" target="6">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="127" source="50" target="13" weight="4.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="128" source="50" target="2" weight="23.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="129" source="50" target="25" weight="17.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="130" source="50" target="26" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="131" source="50" target="29" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="132" source="50" target="3" weight="32.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="133" source="50" target="31">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="134" source="50" target="32" weight="6.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="135" source="50" target="36" weight="13.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="136" source="50" target="49" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="137" source="50" target="5" weight="4.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="138" source="50" target="53">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="139" source="50" target="58">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="140" source="50" target="6" weight="8.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="141" source="50" target="60" weight="9.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="142" source="50" target="66">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="143" source="50" target="69" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="144" source="50" target="73" weight="4.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="145" source="50" target="78">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="146" source="50" target="84">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="147" source="50" target="9" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="148" source="53" target="26">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="149" source="55" target="12">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="150" source="55" target="2">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="151" source="55" target="26" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="152" source="55" target="3" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="153" source="55" target="32">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="154" source="55" target="36" weight="13.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="155" source="55" target="49">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="156" source="55" target="58" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="157" source="55" target="85">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="158" source="56" target="55">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="159" source="57" target="26">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="160" source="58" target="2" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="161" source="58" target="26" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="162" source="58" target="3" weight="9.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="163" source="58" target="32" weight="4.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="164" source="58" target="36" weight="25.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="165" source="58" target="43" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="166" source="58" target="49" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="167" source="58" target="55" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="168" source="58" target="84">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="169" source="6" target="3">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="170" source="6" target="5">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="171" source="6" target="50" weight="4.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="172" source="6" target="60">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="173" source="6" target="66" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="174" source="6" target="78">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="175" source="6" target="9">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="176" source="60" target="2">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="177" source="60" target="20">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="178" source="60" target="26">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="179" source="60" target="36" weight="6.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="180" source="60" target="50" weight="11.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="181" source="60" target="6">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="182" source="60" target="78" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="183" source="60" target="9">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="184" source="63" target="3">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="185" source="63" target="36">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="186" source="66" target="2">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="187" source="66" target="3">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="188" source="66" target="50" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="189" source="66" target="6" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="190" source="66" target="60">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="191" source="69" target="2">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="192" source="7" target="2">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="193" source="73" target="13" weight="8.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="194" source="73" target="2" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="195" source="73" target="36">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="196" source="73" target="40" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="197" source="73" target="50" weight="7.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="198" source="77" target="2">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="199" source="77" target="26">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="200" source="77" target="50">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="201" source="77" target="6">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="202" source="78" target="2" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="203" source="78" target="50">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="204" source="78" target="6" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="205" source="78" target="66" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="206" source="80" target="2">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="207" source="81" target="2">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="208" source="83" target="49">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="209" source="84" target="2">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="210" source="84" target="26" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="211" source="84" target="36" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="212" source="84" target="50">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="213" source="84" target="58" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="214" source="85" target="36" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="215" source="87" target="36">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="216" source="9" target="2" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="217" source="9" target="25">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="218" source="9" target="35" weight="3.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="219" source="9" target="50">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="220" source="9" target="6" weight="2.0">
+        <attvalues>
+          <attvalue for="channel" value="HR"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
