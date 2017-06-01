@@ -9,3 +9,5 @@ Gephi graph files are also generated before being visualised by Processing.
 The data set is syntehtically created and do not correspond to any real dataset. It is used just to describe the concept of 
 network visulaisation
 
+![fig1](https://cloud.githubusercontent.com/assets/26718866/26689600/180e4fee-46ee-11e7-8132-c08edb497c37.jpg)
+
