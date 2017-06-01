@@ -97,15 +97,15 @@ Finally, the curved link is better than lines however, (Huang et al., 2016) work
 
 ## 7. References
 
-Combe, D., Largeron, C., Egyed-Zsigmond, E. & Gery, M., 2010. A comparative study of social network. International Workshop on Web Intelligence and Virtual Enterprises , 2.
-Gramazio, C.C., Laidlaw, D.H. & Schloss, K.B., 2017. Colorgorical: creating discriminable and preferable color palettes for information visualization. IEEE Transactions on Visualization and Computer Graphics.
-Henry, N.a.F.J.-D.a.M.M.J., 2007. NodeTrix: a hybrid visualization of social networks. IEEE transactions on visualization and computer graphics, 13, pp.1302--1309.
-Huang, W., Peter, E., Seok-Hee, H. & Henry, B.-L.D., 2016. Effects of Curves on Graph Perception. Pacific Visualization Symposium (PacificVis) IEEE, pp.199-203.
-Kirk, A., 2012. Conceiving and Reasoning Visualization Design Options. In Data Visualization: a successful design process. Packt Publishing Ltd. Ch. 4.
-Kosslyn, S.M., 2006. Graph Design for the Eye and Mind, Creating Line-Graph Variants and Scatterplots. Oxford Scholarship Online. pp.142-45.
+Combe, D., Largeron, C., Egyed-Zsigmond, E. & Gery, M., 2010. A comparative study of social network. International Workshop on Web Intelligence and Virtual Enterprises , 2.  
+Gramazio, C.C., Laidlaw, D.H. & Schloss, K.B., 2017. Colorgorical: creating discriminable and preferable color palettes for information visualization. IEEE Transactions on Visualization and Computer Graphics.  
+Henry, N.a.F.J.-D.a.M.M.J., 2007. NodeTrix: a hybrid visualization of social networks. IEEE transactions on visualization and computer graphics, 13, pp.1302--1309.  
+Huang, W., Peter, E., Seok-Hee, H. & Henry, B.-L.D., 2016. Effects of Curves on Graph Perception. Pacific Visualization Symposium (PacificVis) IEEE, pp.199-203.  
+Kirk, A., 2012. Conceiving and Reasoning Visualization Design Options. In Data Visualization: a successful design process. Packt Publishing Ltd. Ch. 4.  
+Kosslyn, S.M., 2006. Graph Design for the Eye and Mind, Creating Line-Graph Variants and Scatterplots. Oxford Scholarship Online. pp.142-45.  
 Munzner, T., 2014. Arrange Network and Trees. In Visualization Analysis and Design. CRC Press. Ch. 9. pp.201-18.
-Shneiderman, B., 1996. The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations. Proceedings IEEE Symposium on Visual Languages.
-Sundar, S.S. et al., 2014. User Experience of On-Screen Interaction Techniques: An Experimental Investigation of Clicking, Sliding, Zooming, Hovering, Dragging, and Flipping. Human–Computer Interaction, 29(2), pp.109-52.
-Wood, J., 2012. London Moves, visualising 16 million cycle journeys across the UK capital, TEDx , YouTube. [Video] Available at: https://www.youtube.com/watch?v=FaRBUnO5PZI [Accessed 15 April 2017].
-Zhu, B., Watts, S. & Chen, H., 2010. Visualizing social network concepts. Decision Support Systems , 49(2), pp.151-61.
+Shneiderman, B., 1996. The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations. Proceedings IEEE Symposium on Visual Languages.  
+Sundar, S.S. et al., 2014. User Experience of On-Screen Interaction Techniques: An Experimental Investigation of Clicking, Sliding, Zooming, Hovering, Dragging, and Flipping. Human–Computer Interaction, 29(2), pp.109-52.  
+Wood, J., 2012. London Moves, visualising 16 million cycle journeys across the UK capital, TEDx , YouTube. [Video] Available at: https://www.youtube.com/watch?v=FaRBUnO5PZI [Accessed 15 April 2017].  
+Zhu, B., Watts, S. & Chen, H., 2010. Visualizing social network concepts. Decision Support Systems , 49(2), pp.151-61.  
 
