@@ -1,0 +1,17 @@
+Tableau Public — This is among the most popular, intuitive and user-friendly of today’s data visualization tools. Requires no coding (Rupesh).
+Chart.js — Simple, flexible JavaScript charts (Manoj).
+RAW Graphs — Copy/paste the relevant data directly from your spreadsheet program into RAW, choose a data visualization type, and set your parameters using a drag-and-drop interface. Each individual parameter or visual metric can be adjusted, and the interface is clean and intuitive, making it ideal for beginners (Ankit).
+dygraphs — Another fast, flexible open source JavaScript charting library (Tuhin).
+Palladio — A good tool to visualize complex historical data which are often qualitative and incomplete in nature, and to build better understanding of the historical material through humanistic inquiry (Pallavi).
+Timeline.js — This is a powerful free tool developed by Northwestern University’s Knight Lab that helps you create engaging, timeline-based visuals to show off your data. Requires no coding. The Jayalalitha Disproportionate Assets Case by one of my students was done using Timeline.js (Manasi).
+Tiki-Toki — Another web-based software to create interactive timelines (Silpa).
+SIMILE Widgets — Open-source web widgets, mostly for data visualizations (Arka).
+Mapbox — Great for building beautiful custom maps (Vineet).
+Leaflet — Lightweight open-source JavaScript library for mobile-friendly interactive maps (Malay).
+D3.js — If you know Javascript, and you want to create highly custom and interactive interactive data visualizations, the D3.js library is the best tool around. Most visualization that you see on my website are done using d3.js (Amit).
+Tangle — Tangle is a JavaScript library for creating reactive documents. Your readers can interactively explore possibilities, play with parameters, and see the document update immediately. Excellent for instruction design and process explanation projects (Udayan).
+Processing — Processing.js is a JavaScript library that sits on top of the Processing visual programming language. As everyJavaSript library is, Processing.js is web oriented and lets you bring the Processing power to your web pages (Rohit).
+Springy.js — Springy is a force-directed graph layout algorithm. It means that springy uses some real-world physics to try and figure out how to show a network graph in a way that looks good (Raagul).
+
+Source: https://medium.com/@infodesignlab/de705-interactive-data-visualization-9870712e08d5
+
