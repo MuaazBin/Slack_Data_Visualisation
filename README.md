@@ -109,3 +109,9 @@ Sundar, S.S. et al., 2014. User Experience of On-Screen Interaction Techniques: 
 Wood, J., 2012. London Moves, visualising 16 million cycle journeys across the UK capital, TEDx , YouTube. [Video] Available at: https://www.youtube.com/watch?v=FaRBUnO5PZI [Accessed 15 April 2017].  
 Zhu, B., Watts, S. & Chen, H., 2010. Visualizing social network concepts. Decision Support Systems , 49(2), pp.151-61.  
 
+
+Comments:
+A good link to explore various visualisations and charting tools
+
+https://medium.com/@infodesignlab/de705-interactive-data-visualization-9870712e08d5
+
